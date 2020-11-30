@@ -1,5 +1,26 @@
 {
   "dependencies": {
     "react-router-dom": "^5.2.0"
-  }
+  },
+  "name": "simple_netflix",
+  "description": "netflix 클론 간단버전",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "eslint": "^7.14.0",
+    "eslint-plugin-react": "^7.21.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rabiori88/Simple_Netflix.git"
+  },
+  "author": "rabiori",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rabiori88/Simple_Netflix/issues"
+  },
+  "homepage": "https://github.com/rabiori88/Simple_Netflix#readme"
 }
